@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-06-17T17:41:26 IST" name="gamillogin" finished-at="2021-06-17T17:41:32 IST" duration-ms="5985">
+    <groups>
+    </groups>
+    <test started-at="2021-06-17T17:41:26 IST" name="testing" finished-at="2021-06-17T17:41:32 IST" duration-ms="5985">
+      <class name="TestNG.LoginGmail">
+        <test-method signature="loginmail()[pri:0, instance:TestNG.LoginGmail@62e7f11d]" started-at="2021-06-17T17:41:26 IST" name="loginmail" finished-at="2021-06-17T17:41:32 IST" duration-ms="5926" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginmail -->
+      </class> <!-- TestNG.LoginGmail -->
+    </test> <!-- testing -->
+  </suite> <!-- gamillogin -->
+</testng-results>

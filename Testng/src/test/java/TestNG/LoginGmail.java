@@ -9,7 +9,7 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 public class LoginGmail {
 @Test
 	public void loginmail() {
-		WebDriverManager.chromedriver().setup();
+		WebDriverManager.edgedriver().setup();
 		ChromeDriver driver=new ChromeDriver();
 		driver.get("https://www.google.com/");
 		driver.findElement(By.name("q")).sendKeys("javatpoint");
